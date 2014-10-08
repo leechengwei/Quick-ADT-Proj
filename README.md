@@ -6,7 +6,7 @@ quick envirment setting
 
 Remember 
 
-1.you should use android-ndk-r8e
+1.you should use android-ndk-r8b
 
 2.APP_CPPFLAGS must add -std=gnu++0x
 
